@@ -1,0 +1,15 @@
+sourcePath | C:\Users\Cory\Downloads
+oldFile | C:\Users\Cory\Downloads\20131211_102059.CSV
+oldFile | C:\Users\Cory\Downloads\20131210_102736.CSV
+oldFile | C:\Users\Cory\Downloads\20131211_114829.CSV
+destPath | C:\Users\Cory\Downloads
+startRow | 2
+delimiter | "
+findReplaceRow | 4
+find | 3720*
+replace | 0003720
+format | text
+columns | 1
+findReplaceRow | 2
+format | date
+columns | 4

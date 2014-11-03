@@ -1,0 +1,13 @@
+C:\Users\Cory\documents\visual studio 2010\Projects\CSVFindReplace\CSVFindReplace\bin\Debug\CSVFindReplace.exe
+C:\Users\Cory\documents\visual studio 2010\Projects\CSVFindReplace\CSVFindReplace\bin\Debug\CSVFindReplace.pdb
+C:\Users\Cory\documents\visual studio 2010\Projects\CSVFindReplace\CSVFindReplace\obj\x86\Debug\CSVFindReplace.Form1.resources
+C:\Users\Cory\documents\visual studio 2010\Projects\CSVFindReplace\CSVFindReplace\obj\x86\Debug\CSVFindReplace.Properties.Resources.resources
+C:\Users\Cory\documents\visual studio 2010\Projects\CSVFindReplace\CSVFindReplace\obj\x86\Debug\CSVFindReplace.csproj.GenerateResource.Cache
+C:\Users\Cory\documents\visual studio 2010\Projects\CSVFindReplace\CSVFindReplace\obj\x86\Debug\CSVFindReplace.exe
+C:\Users\Cory\documents\visual studio 2010\Projects\CSVFindReplace\CSVFindReplace\obj\x86\Debug\CSVFindReplace.pdb
+C:\Users\Cory\documents\visual studio 2010\Projects\CSVFindReplace\CSVFindReplace\bin\Debug\CSVFindReplace.exe.config
+C:\Users\Cory\documents\visual studio 2010\Projects\CSVFindReplace\CSVFindReplace\bin\Debug\EPPlus.dll
+C:\Users\Cory\documents\visual studio 2010\Projects\CSVFindReplace\CSVFindReplace\bin\Debug\EPPlus.xml
+C:\Users\Cory\Documents\Visual Studio 2013\Projects\CSVFindReplace\CSVFindReplace\bin\Debug\CSVFindReplace.exe.config
+C:\Users\Cory\Documents\Visual Studio 2013\Projects\CSVFindReplace\CSVFindReplace\obj\x86\Debug\CSVFindReplace.exe
+C:\Users\Cory\Documents\Visual Studio 2013\Projects\CSVFindReplace\CSVFindReplace\obj\x86\Debug\CSVFindReplace.pdb
